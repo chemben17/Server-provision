@@ -75,7 +75,7 @@ This project involves provisioning a cloud-based Linux server, setting up a web 
 ### **6. Hosting & Verification**
 - Deployed landing page and verified accessibility.
 - Public IP Address: **[44.211.227.207]**
-- Screenshot of the rendered page:![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+- Screenshot of the rendered page:![Alt text](https://github.com/chemben17/Server-provision/blob/main/screenshoots%20of%20webpage.png)
 
 ### **7. GitHub Repository**
 - Created a GitHub repository for tracking progress and documentation.
