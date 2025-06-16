@@ -74,8 +74,8 @@ This project involves provisioning a cloud-based Linux server, setting up a web 
 ## **Deployment & Submission**
 ### **6. Hosting & Verification**
 - Deployed landing page and verified accessibility.
-- Public IP Address: **[Insert Public IP Here]**
-- Screenshot of the rendered page: **Included in repo**
+- Public IP Address: **[44.211.227.207]**
+- Screenshot of the rendered page:![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 ### **7. GitHub Repository**
 - Created a GitHub repository for tracking progress and documentation.
